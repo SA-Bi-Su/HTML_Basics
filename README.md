@@ -1,2 +1,2 @@
 # HTML_Basics
-Everything should start from small
+Everything should start from small - keep on learning
